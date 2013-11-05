@@ -1,0 +1,6 @@
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\bin\Debug\gongchangmoshi.exe.config
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\bin\Debug\gongchangmoshi.exe
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\bin\Debug\gongchangmoshi.pdb
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\obj\Debug\gongchangmoshi.csprojResolveAssemblyReference.cache
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\obj\Debug\gongchangmoshi.exe
+E:\learnDesignMode\C#\jiandangongchang\gongchangmoshi\gongchangmoshi\obj\Debug\gongchangmoshi.pdb
