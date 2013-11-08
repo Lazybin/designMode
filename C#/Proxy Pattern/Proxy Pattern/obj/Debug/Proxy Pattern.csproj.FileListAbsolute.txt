@@ -1,0 +1,6 @@
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe.config
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.exe
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\bin\Debug\Proxy Pattern.pdb
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.csprojResolveAssemblyReference.cache
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.exe
+E:\design\designMode\C#\Proxy Pattern\Proxy Pattern\obj\Debug\Proxy Pattern.pdb
