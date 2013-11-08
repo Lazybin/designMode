@@ -4,3 +4,6 @@ E:\learnDesignMode\C#\Decorator Pattern\Decorator Pattern\bin\Debug\Decorator Pa
 E:\learnDesignMode\C#\Decorator Pattern\Decorator Pattern\obj\Debug\Decorator Pattern.csprojResolveAssemblyReference.cache
 E:\learnDesignMode\C#\Decorator Pattern\Decorator Pattern\obj\Debug\Decorator Pattern.exe
 E:\learnDesignMode\C#\Decorator Pattern\Decorator Pattern\obj\Debug\Decorator Pattern.pdb
+E:\designMode\C#\Decorator Pattern\Decorator Pattern\bin\Debug\Decorator Pattern.exe.config
+E:\designMode\C#\Decorator Pattern\Decorator Pattern\obj\Debug\Decorator Pattern.exe
+E:\designMode\C#\Decorator Pattern\Decorator Pattern\obj\Debug\Decorator Pattern.pdb
