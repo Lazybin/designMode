@@ -1,0 +1,6 @@
+E:\design\designMode\C#\Template Method\Template Method\bin\Debug\Template Method.exe.config
+E:\design\designMode\C#\Template Method\Template Method\bin\Debug\Template Method.exe
+E:\design\designMode\C#\Template Method\Template Method\bin\Debug\Template Method.pdb
+E:\design\designMode\C#\Template Method\Template Method\obj\Debug\Template Method.csprojResolveAssemblyReference.cache
+E:\design\designMode\C#\Template Method\Template Method\obj\Debug\Template Method.exe
+E:\design\designMode\C#\Template Method\Template Method\obj\Debug\Template Method.pdb
