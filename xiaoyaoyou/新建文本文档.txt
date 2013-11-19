@@ -2,3 +2,17 @@
 1.玩家死亡时，判定是否还有队友，判定是获胜还是失败
 2.怪物牌堆没有牌，判定双方宠物战力，判定获胜还是失败
 3.认输。
+
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"word_wrap": true,
+	"wrap_width": 135
+}
+
+
+select  area1.name as 'province',area1.areaid as provinceid,area2.name as 'city' ,area2.areaid as cityid,
+area3.name as 'area',area3.areaid as areaid from t_Area area1,t_Area area2,t_Area area3 
+where area1.parentID=0 and area2.parentID=area1.areaid and area3.parentID=area2.areaid
