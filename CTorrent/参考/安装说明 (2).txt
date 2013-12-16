@@ -1,0 +1,57 @@
+安装方法
+http://www.boluo.org/archives/ctorrent.html
+http://www.bitscn.com/os/linux/200604/6739.html
+下载地址
+http://ctorrent.sourceforge.net/?action=downloads
+
+
+CTorrent 是用C语言写的一个BT客户端。现在可以运行在多种Linux 版本，MacOS 和 FreeBSD下，以后可能也会运行在Windows下。CTorrent是运行在命令行模式下的，这意味着它不需要任何图形组件(如X Server)。你可以通过远程访问来让它在后台运行。
+
+CTorrent主页
+
+http://ctorrent.sourceforge.net/
+
+下载
+
+http://ctorrent.sourceforge.net/?action=downloads
+
+目前最新版本是1.3.2
+
+安装
+
+将下载回来的ctorrent-1.3.2.tar.gz文件解压缩。
+
+tar zxvf ctorrent-1.3.2.tar.gz
+fmae
+进入ctorrent-1.3.2目录
+
+cd ctorrent-1.3.2
+
+配置和编译软件
+
+./configure
+
+make
+
+make install
+
+使用
+
+安装完成后，程序默认会放在/usr/bin下，这样我们在任何目录都可以通过ctorrent来使用了
+
+具体参数可以通过ctorrent -h来察看。
+
+举个实例
+
+比如我要将eg.torrent这个种子文件的内容下载到/mnt/hd/下，命令如下
+
+ctorrent -s /mnt/hd/ eg.torrent
+
+如何察看下载状态
+
+10, [0/334/331], 6070,9845, | 5004,3984 E:3
+10 - 连接人数（其他一些有你要下载文件的人）
+0/334/331 - 已完成/全部/可利用的部分.
+6070,9845 - 平均下载速度(in bytes/s), 平均上传速度(in bytes/s)
+5004,3984 - 当前下载速度 (in bytes/s), 当前上传速度 (in bytes/s)
+E:3 - The tracker has refused connections 3 times.【转自www.bitsCN.com】
