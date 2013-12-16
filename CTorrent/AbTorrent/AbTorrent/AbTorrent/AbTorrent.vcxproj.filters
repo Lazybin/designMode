@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bencode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bitfield.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="btconfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="btcontent.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="btfiles.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="btrequest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="btstream.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bufio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="connect_nonb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="def.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="downloader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="httpencode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="iplist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="msgencode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="peer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="peerlist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="setnonblock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sigint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tracker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bencode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bitfield.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btconfig.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btcontent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btfiles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btrequest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="btstream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="bufio.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="connect_nonb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ctorrent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="downloader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="httpencode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="iplist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="peer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="peerlist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="setnonblock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sigint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tracker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="abtorrent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
